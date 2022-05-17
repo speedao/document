@@ -1,6 +1,6 @@
 # What is Spee Dao?
 
-&#x20;   **Spee Dao is a multi-chain aggregation protocol such as that provides liquidity as DeFi for NFTs.**
+&#x20;   **SpeeDao integrates NFT into DeFi aggregator with a novel interstellar carrier, single-coin/dual-coin farming, swap, bridge, contract and excellent user experience are under one panel.**
 
 &#x20;   **We are practitioners of DeFi and NFT, but we find that NFT and DeFi are different worlds. We want to bridging the rift between two worlds,and finally merge them together**.
 
