@@ -10,4 +10,6 @@
 
 &#x20; **Mainstream EVM-compatible chains include BSC, Avalanche, Solana, Polygon, etc.**
 
-&#x20;
+&#x20;tool：[https://defillama.com/](https://defillama.com/) &#x20;
+
+RPC：[https://chainlist.org/](https://chainlist.org/)
