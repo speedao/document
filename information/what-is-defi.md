@@ -30,7 +30,7 @@ description: WRITTEN BY IVANONTECH December 30, 2021
 
 &#x20; [DeFi tokens](https://academy.moralis.io/blog/defi-token-industry-review-understanding-defi-tokens-in-2021?utm\_source=blog\&utm\_medium=post\&utm\_campaign=DeFi%2520Explained%2520%25E2%2580%2593%2520An%2520Easy%2520Explanation%2520to%2520DeFi) play an essential part in incentivizing users of DeFi protocols. Many borrowing and lending platforms offer a native token as a reward for interacting with the platform. Furthermore, some of these tokens grant holders governance rights. Accordingly, these token holders can vote on proposals to make changes to the platform.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 &#x20; There are many different DeFi tokens. Despite the high yield that many of these platforms offer, DeFi tokens can be incredibly volatile. Popular tokens include Uniswap (UNI), Compound (COMP), PancakeSwap (CAKE), SushiSwap (SUSHI), and Avalanche (AVAX). These tokens are native DeFi tokens. However, several other tokens fall into the category of DeFi tokens. For example, Chainlink (LINK) is not a DeFi specific token. However, as a substantial number of DeFi projects rely on Chainlink oracles, the LINK token is widely considered to be a DeFi token.
 
@@ -42,7 +42,7 @@ description: WRITTEN BY IVANONTECH December 30, 2021
 
 &#x20; A centralized exchange (CEX) like Coinbase or Binance offers custodial services, meaning that they hold your crypto assets for you. A decentralized exchange (DEX) is a non-custodial exchange whereby users can make peer-to-peer transactions by interacting with smart contracts. Generally speaking, most DEXs do not require a photo ID for signing up.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 &#x20; There are many different types of DEX. However, the most popular uses the [automated market maker](https://academy.moralis.io/blog/what-are-automated-market-makers-amms?utm\_source=blog\&utm\_medium=post\&utm\_campaign=DeFi%2520Explained%2520%25E2%2580%2593%2520An%2520Easy%2520Explanation%2520to%2520DeFi) (AMM) model. AMMs such as [Uniswap or PancakSwap](https://academy.moralis.io/blog/defi-deep-dive-pancakeswap-vs-uniswap?utm\_source=blog\&utm\_medium=post\&utm\_campaign=DeFi%2520Explained%2520%25E2%2580%2593%2520An%2520Easy%2520Explanation%2520to%2520DeFi) operate without centralized order books. Instead, buyers and sellers are matched algorithmically using smart contracts.
 
@@ -50,7 +50,7 @@ description: WRITTEN BY IVANONTECH December 30, 2021
 
 &#x20; Automated Market Makers rely on liquidity provision for decentralized token swaps. Liquidity providers can deposit tokens into a smart contract to provide assets for token swaps. Doing this enables users to make a passive income in the form of trading fees. Most liquidity pools require deposits of an equal amount of two assets. For example, a user could deposit one ETH with a value of $4,000, with 4,000 DAI, or USDC. Accordingly, DEX users can execute token swaps using this liquidity.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 &#x20; Although providing liquidity to liquidity pools can be a profitable endeavor, it is not without risk. It is worth noting that when providing liquidity to such DeFi protocols, you could end up with a different ratio of ETH to DAI or USDC. This is called impermanent loss. Impermanent loss occurs when the price of deposited assets changes.
 
@@ -66,7 +66,7 @@ description: WRITTEN BY IVANONTECH December 30, 2021
 
 &#x20; Yield farming, or liquidity mining, is a type of crypto investment strategy whereby token users can lend out crypto and receive interest in return. By hopping between multiple protocols, users can seek the highest returns for their assets. Also, some yield farming protocols offer a specific token on top of the interest for borrowing. Many of these tokens have seen tremendous price action following the adoption of the platform. Accordingly, users of the platform have an additional incentive to borrow and lend.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 &#x20; Because of the volatile nature of [yield farming](https://academy.moralis.io/blog/defi-deep-dive-what-is-yield-farming?utm\_source=blog\&utm\_medium=post\&utm\_campaign=DeFi%2520Explained%2520%25E2%2580%2593%2520An%2520Easy%2520Explanation%2520to%2520DeFi), it can be a high-risk endeavor. Impermanent loss and wild price swings can leave investors at a loss if they’re not careful. However, those with a keen eye for trends and price movements stand to benefit from being a step ahead of the curve and maximizing their gains.
 

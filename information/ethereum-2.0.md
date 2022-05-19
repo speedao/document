@@ -1,3 +1,7 @@
+---
+description: WRITTEN BY Andrey Belyakov May 26, 2020
+---
+
 # Ethereum 2.0
 
 **▼What is Ethereum 2.0?**
