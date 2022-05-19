@@ -1,3 +1,7 @@
+---
+description: WRITTEN BY IVANONTECH December 30, 2021
+---
+
 # What is DeFi?
 
 ## DeFi Explained – A Simple Explanation of DeFi
