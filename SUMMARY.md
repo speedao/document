@@ -18,3 +18,4 @@
 * [information](information/README.md)
   * [Ethereum 2.0](information/ethereum-2.0.md)
   * [What is EVM-compatible Chain?](information/what-is-evm-compatible-chain.md)
+  * [What is DeFi?](information/what-is-defi.md)
