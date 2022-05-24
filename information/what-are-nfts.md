@@ -90,6 +90,8 @@ description: WRITTEN BY IVANONTECH January 10, 2022
 
 ![](<../.gitbook/assets/image (2).png>)
 
+&#x20;[ON WHAT IS AN NFT?](https://twitter.com/punk6529/status/1451896453065023493?s=20\&t=uZptXwsqBbMm1Nqr1qhpKg)
+
 \
 
 
