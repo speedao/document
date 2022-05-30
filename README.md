@@ -1,6 +1,6 @@
 ---
-description: Product concept and positioning
+description: speedao.xyz
 ---
 
-# About Spee DAO
+# About Spee Dao
 

@@ -1,45 +1,45 @@
 # Route map
 
-**2022-Q3:**
+2022-Q3:
 
-**Establish strategic partners**
+Establish strategic partners
 
-**Sales of NFT**
+Sales of NFT
 
-**Multilingual version**
+Multilingual version
 
-**NFT club governance forum**
+club governance forum
 
-**NFT Pools deployment**
+Pools deployment
 
-**Spee Finance Multi-Chain Deployment**
+Finance Multi-Chain Deployment
 
-**Testnet Deployment**
+Testnet Deployment
 
-**Multi-party code audit**
+Multi-party code audit
 
-**2022-Q4:**
+2022-Q4:
 
-**Deploy vetoken contract ownership and conversion**
+Deploy vetoken contract ownership and conversion
 
-**IDO (add liquidity on DEX)**
+IDO (add liquidity on DEX)
 
-**Partnering with DEX to open a token farm**
+Partnering with DEX to open a token farm
 
-**Open NFT POOLS pool to stake nft**
+Open POOLS pool to stake NFT
 
-**Spee Finance Launch**
+Finance Launch
 
-**Token cross-chain deployment**
+Token cross-chain deployment
 
-**2023-Q1:**
+2023-Q1:
 
-**NFT Staking SDK development**
+SDK development
 
-**Spee finance function integration**
+Spee finance function integration
 
-**Commission system deployment**
+Commission system deployment
 
-**Form Dao Committee**
+Form Dao Committee
 
-**V2's Farm Universe exploration and development**
+V2's Farm Universe exploration and development
