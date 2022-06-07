@@ -4,10 +4,10 @@ Spee Finance provides a full-chain revenue aggregation protocol with streaming p
 
 ![logic diagram](../../.gitbook/assets/思维导图1终稿.png)
 
-![Reference page](<../../.gitbook/assets/页面1 - 英文.png>)
+![Reference page](../../.gitbook/assets/2401654589077\_.pic.jpg)
 
-![Reference page](<../../.gitbook/assets/页面3 - 英文 (1).png>)
+![Reference page](<../../.gitbook/assets/image (1).png>)
 
-![Reference page](<../../.gitbook/assets/页面2 - 英文 (1).png>)
+![Reference page](<../../.gitbook/assets/image (4).png>)
 
 ![Reference page](../../.gitbook/assets/1581651744012\_.pic.jpg)

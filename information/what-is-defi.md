@@ -42,7 +42,7 @@ description: WRITTEN BY IVANONTECH December 30, 2021
 
 &#x20; A centralized exchange (CEX) like Coinbase or Binance offers custodial services, meaning that they hold your crypto assets for you. A decentralized exchange (DEX) is a non-custodial exchange whereby users can make peer-to-peer transactions by interacting with smart contracts. Generally speaking, most DEXs do not require a photo ID for signing up.
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 &#x20; There are many different types of DEX. However, the most popular uses the [automated market maker](https://academy.moralis.io/blog/what-are-automated-market-makers-amms?utm\_source=blog\&utm\_medium=post\&utm\_campaign=DeFi%2520Explained%2520%25E2%2580%2593%2520An%2520Easy%2520Explanation%2520to%2520DeFi) (AMM) model. AMMs such as [Uniswap or PancakSwap](https://academy.moralis.io/blog/defi-deep-dive-pancakeswap-vs-uniswap?utm\_source=blog\&utm\_medium=post\&utm\_campaign=DeFi%2520Explained%2520%25E2%2580%2593%2520An%2520Easy%2520Explanation%2520to%2520DeFi) operate without centralized order books. Instead, buyers and sellers are matched algorithmically using smart contracts.
 

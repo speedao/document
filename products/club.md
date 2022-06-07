@@ -8,4 +8,4 @@ Our total NFT is 10,000 copies, which will be minted on well-known public blockc
 
 Economic Model:
 
-![](../.gitbook/assets/WechatIMG174.png)
+![](../.gitbook/assets/2381654587588\_.pic.jpg)

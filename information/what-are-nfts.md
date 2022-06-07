@@ -48,7 +48,7 @@ description: WRITTEN BY IVANONTECH January 10, 2022
 
 &#x20; Thanks to the continuous development within blockchain technology, smart contracts, and non-fungible assets, it is possible to tokenize single units of energy onto the blockchain. Further, with an increase in renewable energy sources, such as solar panels, people can tokenize their units of energy and sell them back to the energy grid. In turn, blockchain and NFTs are forming the foundations for a peer-to-peer distributed energy market of prosumers and consumers.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 &#x20; Alternatively, the energy could be redirected to a community network where houses would collectively pool together their energy. Then, houses would only use and pay for the energy they need and sell any unused energy. Accordingly, this would result in ultimate energy efficiency for a resource-based economy.&#x20;
 
