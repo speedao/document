@@ -13,7 +13,7 @@
 * [Scout](what-is-the-scout-community.md)
 * [Promotion](promotion.md)
 * [Integrated](integrated.md)
-* [Economic Model and Governance](economic-model-and-governance.md)
+* [Tokenomics](tokenomics.md)
 * [V2 Revision "farm universe"](v2-revision-farm-universe.md)
 * [Core team members](core-team-members.md)
 * [Route map](route-map.md)
