@@ -8,7 +8,7 @@
   * [Pools](products/pools.md)
   * [Finance](products/finance/README.md)
     * [Development Strategies for improving Farming yield](products/finance/development-strategies-for-improving-farming-yield.md)
-    * [Insurance fund reserve](products/finance/insurance-fund-reserve.md)
+    * [Insurance fund](products/finance/insurance-fund.md)
   * [SDK](products/sdk.md)
 * [Scout](what-is-the-scout-community.md)
 * [Promotion](promotion.md)
