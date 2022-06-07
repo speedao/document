@@ -10,7 +10,7 @@
     * [Development Strategies for improving Farming yield](products/finance/development-strategies-for-improving-farming-yield.md)
     * [Insurance fund reserve](products/finance/insurance-fund-reserve.md)
   * [SDK](products/sdk.md)
-* [Scout Community?](scout-community.md)
+* [Scout](scout.md)
 * [Community Promotion Mechanism](community-promotion-mechanism.md)
 * [Integrated](integrated.md)
 * [Economic Model and Governance](economic-model-and-governance.md)
