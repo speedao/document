@@ -1,5 +1,7 @@
 # V2 Revision "farm universe"
 
-lnspired by [Alotta Money](https://alottamoney.com/cryptovoxels/) 、[DeFi Kingdoms](https://defikingdoms.com/) and [Cryptovoxels](https://www.cryptovoxels.com/play?coords=N@1W,2S). the first time I met Alotta Money was after hearing the bad news of his death. Through the series of his works, I was attracted by his sunny, romantic and humorous personal characteristics.
+Inspired by [Alotta Money](https://alottamoney.com/cryptovoxels/), [Cryptovoxels](https://www.cryptovoxels.com/play?coords=N@1W,2S) and the [6529 Museum District](https://oncyber.io/6529om). They are all great, click the blue name to jump, have fun!&#x20;
 
-The construction of V2 expected to link Alotta Money in an open form. We will co-build with his friends before death and finally present a space with an immersive interactive space.
+The farm universe should be more than farms, Have a home? Have a pet? Weekend party? Watching a movie with your lover? Lawn concert? Let's go and create together!
+
+The construction of V2 Fram universe remains open, all metaverse architects are welcome to build together, please join us in Discord.
